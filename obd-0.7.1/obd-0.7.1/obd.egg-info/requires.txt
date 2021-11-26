@@ -1,2 +1,0 @@
-pyserial==3.*
-pint==0.7.*
